@@ -35,9 +35,12 @@ return [
         ],
     ],
 
+<<<<<<< HEAD
     'documanage_api' => [
         'base_url' => env('API_BASE_URL'),
         'token' => env('API_TOKEN'),
     ],
 
+=======
+>>>>>>> ba423d4ca8b0b93271da5dafa3e306809b3ffcde
 ];
